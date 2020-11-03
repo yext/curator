@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/go-zookeeper/zk"
+	"github.com/yext/zk"
 )
 
 const MAX_BACKGROUND_ERRORS = 10

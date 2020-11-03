@@ -1,7 +1,7 @@
 package curator
 
 import (
-	"github.com/go-zookeeper/zk"
+	"github.com/yext/zk"
 )
 
 type createBuilder struct {

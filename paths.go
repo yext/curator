@@ -8,7 +8,7 @@ import (
 	"sync"
 	"unicode"
 
-	"github.com/go-zookeeper/zk"
+	"github.com/yext/zk"
 )
 
 const (
