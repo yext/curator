@@ -3,7 +3,7 @@ package curator
 import (
 	"fmt"
 
-	"github.com/go-zookeeper/zk"
+	"github.com/yext/zk"
 )
 
 type CuratorEventType int

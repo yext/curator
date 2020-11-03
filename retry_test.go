@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-zookeeper/zk"
+	"github.com/yext/zk"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

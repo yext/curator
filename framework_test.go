@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-zookeeper/zk"
+	"github.com/yext/zk"
 	"github.com/stretchr/testify/assert"
 )
 
