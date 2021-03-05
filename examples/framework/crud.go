@@ -1,8 +1,8 @@
 package framework
 
 import (
-	"github.com/curator-go/curator"
-	"github.com/samuel/go-zookeeper/zk"
+	"github.com/yext/curator"
+	"github.com/yext/zk"
 )
 
 func Create(client curator.CuratorFramework, path string, payload []byte) (string, error) {
