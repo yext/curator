@@ -12,8 +12,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/curator-go/curator"
-	"github.com/samuel/go-zookeeper/zk"
+	"github.com/yext/curator"
+	"github.com/yext/zk"
 )
 
 // this file contains utils for testing of TreeCache.

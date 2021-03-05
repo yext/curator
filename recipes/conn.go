@@ -3,7 +3,7 @@ package recipes
 import (
 	"time"
 
-	"github.com/curator-go/curator"
+	"github.com/yext/curator"
 	"github.com/fanliao/go-promise"
 )
 
